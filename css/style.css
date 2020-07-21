@@ -1,0 +1,48 @@
+* {
+  /* Reset */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* main styling */
+  html,
+  body {
+    font-family: sans-serif;
+  }
+  
+  h1{
+    color: rgb(104, 190, 24);
+    text-decoration: none;
+  }
+
+  
+h1
+{
+  padding-bottom: 25px;
+}
+#navbar ul,li {
+  float: centr;
+  background-color: black;
+}
+h1 {
+  color: rgb(118, 180, 67);
+
+}
+#navbar ul, li {
+  color: aliceblue;
+}
+#navbar ul, li {
+  float: left;
+inline-size: initial;
+  padding-top: 20px;
+}
+#navbar ul,li {
+  padding: 25px;
+}
+h1 {
+  text-decoration: none;
+}
+h1 a:hover 
+h1 a{
+  color: rgb(226, 101, 43) ;
